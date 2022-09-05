@@ -1,5 +1,6 @@
-mport React, { useState,useReducer } from "react";
-import "./../styles/App.css";
+import React, { useState,useReducer } from "react";
+
+	import "./../styles/App.css";
 
 
 const states = [{
@@ -218,4 +219,3 @@ function App()
 
 
 export default App;
-Footer
